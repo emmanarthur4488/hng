@@ -1,0 +1,125 @@
+.movie-menu{
+    width: 180px;
+    display: block;
+    border: 2px solid #bdbaba;
+    padding: 1rem;
+}
+.tv img{
+    width: 15%;
+    height: 15%
+}
+.tvv img{
+    width: 15%;
+    height: 15%
+}
+.tvvv img{
+    width: 15%;
+    height: 15%
+}
+.tv{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    padding: 10px;
+}
+.tvv{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    padding: 10px;
+}
+.tvvv{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    background-color: #fcf3f5;
+    padding: 10px;
+    border-right: 3px solid #BE123C;
+}
+.tv h2{
+    padding-left: 1rem;
+}
+.tvv h2{
+    padding-left: 1rem;
+    font-size: 12px;
+    color: #666666;
+}
+.tvvv h2{
+    padding-left: 1rem;
+    font-size: 12px;
+    color: #000000;
+}
+.logout{
+    display: flex;
+    align-items: center;
+    margin-top: 1.5rem;
+    padding: 10px;
+}
+.logout img{
+    width: 20%;
+    height: 20%
+}
+.logout h2{
+    padding-left: 1rem;
+    font-size: 12px;
+    font-weight: 600;
+    color: #666666;
+}
+.note{
+    border: 2px solid #daacb7;
+    padding: 1rem;
+    background-color: #fcf3f5;
+    border-radius: 10px;
+}
+.note1{
+    font-size: 12px;
+    color: #666666;
+}
+.note2{
+    font-size: 10px;
+    color: #666666;
+}
+.playing{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+.playing p{
+    font-size: 12px;
+    background-color: #daacb7;
+    color: #BE123C;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 10px;
+}
+.video{
+    width: 800px;
+    padding: 1rem;
+}
+.action{
+    color:  #B91C1C;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding-right: 7px;
+    padding-left: 7px;
+    font-size: 12px;
+    font-weight: 600;
+    
+}
+.drama{
+    color: #B91C1C;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding-right: 7px;
+    padding-left: 7px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.description{
+    margin-top: 1rem;
+}
+.description p{
+    font-size: 13px;
+    color: #333333;
+}
